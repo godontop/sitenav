@@ -21,6 +21,10 @@ Dockerfile参考
 Alpine Linux包管理器  
 [https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management](https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management)
 
+Alpine Linux包内容  
+[https://pkgs.alpinelinux.org/contents](https://pkgs.alpinelinux.org/contents)  
+用于查询指定文件由哪个包提供（apk info --who-owns只能查询已安装到系统的文件属于哪个包）
+
 ## Python
 ### Beautiful Soup
 Beautiful Soup官网  
