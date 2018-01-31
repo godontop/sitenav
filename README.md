@@ -7,10 +7,14 @@ IT网址导航
 * [Python](#python)
 	* [Beautiful Soup](#beautiful-soup)
 	* [IPython](#ipython)
+	* [Jupyter](#jupyter)
 		* [git](#git)
 		* [Unicode](#unicode)
 
 ## Docker
+Docker Hub  
+[https://hub.docker.com/](https://hub.docker.com/)
+
 Dockerfile参考  
 [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
 
@@ -39,6 +43,10 @@ Beautiful Soup官方文档中文版
 ### IPython
 IPython 官方文档  
 [http://ipython.readthedocs.io/en/stable/](http://ipython.readthedocs.io/en/stable/)
+
+### Jupyter
+Jupyter notebook用户文档  
+[http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
 
 #### git
 [https://git-scm.com/](https://git-scm.com/)
