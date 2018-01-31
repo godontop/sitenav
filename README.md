@@ -91,3 +91,7 @@ What Is My Browser
 
 百度翻译  
 [http://fanyi.baidu.com/](http://fanyi.baidu.com/)
+
+老毛桃  
+[http://www.laomaotao.org/](http://www.laomaotao.org/)
+很给力的一个工具，可以用来创建Linux（测试过Linux Mint 18.3）版的U盘启动盘。
