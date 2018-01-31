@@ -8,7 +8,8 @@ IT网址导航
 	* [Beautiful Soup](#beautiful-soup)
 	* [IPython](#ipython)
 	* [Jupyter](#jupyter)
-		* [git](#git)
+* [Software](#software) 
+	* [git](#git)
 		* [Unicode](#unicode)
 
 ## Docker
@@ -50,6 +51,11 @@ IPython 官方文档
 ### Jupyter
 Jupyter notebook用户文档  
 [http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
+
+## Software
+Skim  
+[https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
+macOS平台下很棒的一个PDF阅读软件
 
 #### git
 [https://git-scm.com/](https://git-scm.com/)
