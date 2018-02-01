@@ -30,6 +30,15 @@ Alpine Linux包内容
 [https://pkgs.alpinelinux.org/contents](https://pkgs.alpinelinux.org/contents)  
 用于查询指定文件由哪个包提供（apk info --who-owns只能查询已安装到系统的文件属于哪个包）
 
+### GCC
+[https://gcc.gnu.org/](https://gcc.gnu.org/)  
+
+GCC在线文档  
+[https://gcc.gnu.org/onlinedocs/](https://gcc.gnu.org/onlinedocs/)
+
+C预处理器文档  
+[https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/](https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/)
+
 树莓派  
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 
