@@ -5,6 +5,7 @@ IT网址导航
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [GCC](#gcc)
+    * [Linux Foundation](#linux-foundation)
 * [Python](#python)
 	* [Beautiful Soup](#beautiful-soup)
 	* [IPython](#ipython)
@@ -39,6 +40,16 @@ GCC在线文档
 
 C预处理器文档  
 [https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/](https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/)
+
+### Linux Foundation
+LSB(Linux Standard Base)规范归档  
+[http://refspecs.linuxfoundation.org/lsb.shtml](http://refspecs.linuxfoundation.org/lsb.shtml)
+
+FHS(Filesystem Hierarchy Standard)规范归档  
+[http://refspecs.linuxfoundation.org/fhs.shtml](http://refspecs.linuxfoundation.org/fhs.shtml)
+
+FHS  
+[http://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html](http://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
 
 树莓派  
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
