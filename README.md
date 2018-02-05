@@ -11,7 +11,11 @@
 	* [IPython](#ipython)
 	* [Jupyter](#jupyter)
 * [Software](#software) 
+    * [Skim](#skim)
+    * [Sublime Text](#sublime-text)
+        * [Package Control](#package-control) 
 	* [git](#git)
+    * [RFC索引](#rfc索引) 
 		* [Unicode](#unicode)
 
 ## Docker
@@ -74,15 +78,25 @@ Jupyter notebook用户文档
 [http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
 
 ## Software
-Skim  
+### Skim  
 [https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
 macOS平台下很棒的一个PDF阅读软件
+
+### Sublime Text  
+[https://www.sublimetext.com/](https://www.sublimetext.com/)  
+
+#### Package Control
+[https://packagecontrol.io/](https://packagecontrol.io/)  
+Sublime Text的包管理器
 
 #### git
 [https://git-scm.com/](https://git-scm.com/)
 
 Pro Git 中文版（第二版）  
 [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
+
+#### RFC索引
+[https://www.ietf.org/rfc/](https://www.ietf.org/rfc/)
 
 #### Unicode  
 Unicode官网  
