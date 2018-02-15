@@ -14,6 +14,7 @@
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
+    * [老毛桃](#老毛桃)
 	* [git](#git)
     * [RFC索引](#rfc索引) 
 		* [Unicode](#unicode)
@@ -89,6 +90,11 @@ macOS平台下很棒的一个PDF阅读软件
 [https://packagecontrol.io/](https://packagecontrol.io/)  
 Sublime Text的包管理器
 
+### 老毛桃
+[http://www.laomaotao.org/](http://www.laomaotao.org/)  
+平台：Windows  
+很给力的一个工具，可以用来创建Linux（测试过Linux Mint 18.3）版的U盘启动盘。
+
 #### git
 [https://git-scm.com/](https://git-scm.com/)
 
@@ -133,9 +139,8 @@ What Is My IP Address
 What Is My Browser  
 [https://www.whatismybrowser.com](#https://www.whatismybrowser.com)
 
+百度百科  
+[https://baike.baidu.com/](https://baike.baidu.com/)
+
 百度翻译  
 [http://fanyi.baidu.com/](http://fanyi.baidu.com/)
-
-老毛桃  
-[http://www.laomaotao.org/](http://www.laomaotao.org/)  
-很给力的一个工具，可以用来创建Linux（测试过Linux Mint 18.3）版的U盘启动盘。
