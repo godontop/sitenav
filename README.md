@@ -60,6 +60,13 @@ FHS
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 
 ## Python
+PEPs(Python Enhancement Proposals)  
+[https://www.python.org/dev/peps/](https://www.python.org/dev/peps/)  
+PEPs索引
+
+Python分支的状态  
+[https://devguide.python.org/](https://devguide.python.org/)  
+
 ### Beautiful Soup
 Beautiful Soup官网  
 [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/)
