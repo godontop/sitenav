@@ -10,6 +10,8 @@
 	* [Beautiful Soup](#beautiful-soup)
 	* [IPython](#ipython)
 	* [Jupyter](#jupyter)
+    * [PyPA](#pypa)
+        * [pip](#pip)
 * [Software](#software) 
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
@@ -84,6 +86,21 @@ IPython 官方文档
 ### Jupyter
 Jupyter notebook用户文档  
 [http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
+
+### PyPA
+PyPA文档  
+[https://www.pypa.io/en/latest/](https://www.pypa.io/en/latest/)  
+The Python Packaging Authority (PyPA) is a working group that maintains many of the relevant projects in Python packaging.
+
+PyPA GitHub仓库  
+[https://github.com/pypa](https://github.com/pypa)  
+
+#### pip
+pip文档  
+[https://pip.pypa.io/en/stable/](https://pip.pypa.io/en/stable/)  
+
+pip GitHub仓库  
+[https://github.com/pypa/pip](https://github.com/pypa/pip)  
 
 ## Software
 ### Skim  
