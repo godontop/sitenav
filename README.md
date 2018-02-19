@@ -12,6 +12,7 @@
 	* [Jupyter](#jupyter)
     * [PyPA](#pypa)
         * [pip](#pip)
+        * [Wheel](#wheel)
 * [Software](#software) 
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
@@ -101,6 +102,13 @@ pip文档
 
 pip GitHub仓库  
 [https://github.com/pypa/pip](https://github.com/pypa/pip)  
+
+#### Wheel
+wheel文档  
+[https://wheel.readthedocs.io/en/stable/](https://wheel.readthedocs.io/en/stable/)  
+
+wheel GitHub仓库  
+[https://github.com/pypa/wheel](https://github.com/pypa/wheel)  
 
 ## Software
 ### Skim  
