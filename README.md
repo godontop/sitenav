@@ -10,6 +10,7 @@
 	* [Beautiful Soup](#beautiful-soup)
 	* [IPython](#ipython)
 	* [Jupyter](#jupyter)
+    * [lxml](#lxml)
     * [PyPA](#pypa)
         * [pip](#pip)
         * [Wheel](#wheel)
@@ -87,6 +88,9 @@ IPython 官方文档
 ### Jupyter
 Jupyter notebook用户文档  
 [http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
+
+### lxml
+[http://lxml.de/](http://lxml.de/)  
 
 ### PyPA
 PyPA文档  
