@@ -15,6 +15,7 @@
         * [pip](#pip)
         * [Wheel](#wheel)
 * [Software](#software) 
+    * [digiKam](#digikam)
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
@@ -115,6 +116,11 @@ wheel GitHub仓库
 [https://github.com/pypa/wheel](https://github.com/pypa/wheel)  
 
 ## Software
+### digiKam
+[https://www.digikam.org/](https://www.digikam.org/)  
+digiKam 是开源发布的高级照片管理程序。  
+License: GNU GPL
+
 ### Skim  
 [https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
 macOS平台下很棒的一个PDF阅读软件
