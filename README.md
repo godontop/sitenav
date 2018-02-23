@@ -2,6 +2,7 @@
 我的网址导航
 
 * [Docker](#docker)
+* [Google](#google)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [GCC](#gcc)
@@ -16,6 +17,7 @@
         * [Wheel](#wheel)
 * [Software](#software) 
     * [digiKam](#digikam)
+    * [FileZilla](#filezilla)
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
@@ -30,6 +32,11 @@ Docker Hub
 
 Dockerfile参考  
 [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
+
+## Google
+[Google Calendar](https://www.google.com/calendar/)  
+[Google Photos](https://photos.google.com/)  
+[Google Play](#https://play.google.com/store)  
 
 ## Linux
 ### Alpine Linux
@@ -120,6 +127,14 @@ wheel GitHub仓库
 [https://www.digikam.org/](https://www.digikam.org/)  
 digiKam 是开源发布的高级照片管理程序。  
 License: GNU GPL
+
+### FileZilla
+[https://filezilla-project.org/](https://filezilla-project.org/)  
+免费的FTP解决方案。Both a client and a server are available. FileZilla is open source software distributed free of charge under the terms of the GNU General Public License.  
+License: GUN GPLv2  
+FileZilla支持的平台：  
+FileZilla client: 所有平台  
+FileZilla Server: 仅Windows  
 
 ### Skim  
 [https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
