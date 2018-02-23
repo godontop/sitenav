@@ -36,7 +36,7 @@ Dockerfile参考
 ## Google
 [Google Calendar](https://www.google.com/calendar/)  
 [Google Photos](https://photos.google.com/)  
-[Google Play](#https://play.google.com/store)  
+[Google Play](https://play.google.com/store)  
 
 ## Linux
 ### Alpine Linux
