@@ -72,6 +72,12 @@ FHS
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 
 ## Python
+Python文档  
+[https://docs.python.org/3/](https://docs.python.org/3/)  
+
+Python模块索引  
+[https://docs.python.org/3/py-modindex.html](https://docs.python.org/3/py-modindex.html)  
+
 PEPs(Python Enhancement Proposals)  
 [https://www.python.org/dev/peps/](https://www.python.org/dev/peps/)  
 PEPs索引
