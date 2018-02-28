@@ -206,4 +206,7 @@ What Is My Browser
 [https://baike.baidu.com/](https://baike.baidu.com/)
 
 百度翻译  
-[http://fanyi.baidu.com/](http://fanyi.baidu.com/)
+[http://fanyi.baidu.com/](http://fanyi.baidu.com/)  
+
+百度词典  
+[http://dict.baidu.com/](http://dict.baidu.com/)  
