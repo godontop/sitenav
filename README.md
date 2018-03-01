@@ -144,7 +144,8 @@ License: GNU GPL
 [https://filezilla-project.org/](https://filezilla-project.org/)  
 免费的FTP解决方案。Both a client and a server are available. FileZilla is open source software distributed free of charge under the terms of the GNU General Public License.  
 License: GUN GPLv2  
-FileZilla支持的平台：  
+
+**FileZilla支持的平台：**  
 FileZilla client: 所有平台  
 FileZilla Server: 仅Windows  
 
