@@ -3,6 +3,7 @@
 
 * [Docker](#docker)
 * [Google](#google)
+* [Info](#info)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [GCC](#gcc)
@@ -34,13 +35,17 @@ Docker Hub
 Dockerfile参考  
 [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
 
-## Google
+# Google
 [Google Calendar](https://www.google.com/calendar/)  
 [Google Photos](https://photos.google.com/)  
 [Google Play](https://play.google.com/store)  
 
-## Linux
-### Alpine Linux
+# Info
+robots.txt  
+[http://www.robotstxt.org/](http://www.robotstxt.org/)  
+
+# Linux
+## Alpine Linux
 [https://alpinelinux.org/](https://alpinelinux.org/)
 
 Alpine Linux包管理器  
@@ -50,7 +55,7 @@ Alpine Linux包内容
 [https://pkgs.alpinelinux.org/contents](https://pkgs.alpinelinux.org/contents)  
 用于查询指定文件由哪个包提供（apk info --who-owns只能查询已安装到系统的文件属于哪个包）
 
-### GCC
+## GCC
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
 
 GCC在线文档  
@@ -59,7 +64,7 @@ GCC在线文档
 C预处理器文档  
 [https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/](https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/)
 
-### Linux Foundation
+## Linux Foundation
 LSB(Linux Standard Base)规范归档  
 [http://refspecs.linuxfoundation.org/lsb.shtml](http://refspecs.linuxfoundation.org/lsb.shtml)
 
@@ -72,7 +77,7 @@ FHS
 树莓派  
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 
-## Python
+# Python
 Python文档  
 [https://docs.python.org/3/](https://docs.python.org/3/)  
 
@@ -86,7 +91,7 @@ PEPs索引
 Python分支的状态  
 [https://devguide.python.org/](https://devguide.python.org/)  
 
-### Beautiful Soup
+## Beautiful Soup
 Beautiful Soup官网  
 [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/)
 
@@ -96,18 +101,18 @@ Beautiful Soup官方文档
 Beautiful Soup官方文档中文版  
 [https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
 
-### IPython
+## IPython
 IPython 官方文档  
 [http://ipython.readthedocs.io/en/stable/](http://ipython.readthedocs.io/en/stable/)
 
-### Jupyter
+## Jupyter
 Jupyter notebook用户文档  
 [http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
 
-### lxml
+## lxml
 [http://lxml.de/](http://lxml.de/)  
 
-### PyPA
+## PyPA
 PyPA文档  
 [https://www.pypa.io/en/latest/](https://www.pypa.io/en/latest/)  
 The Python Packaging Authority (PyPA) is a working group that maintains many of the relevant projects in Python packaging.
@@ -115,27 +120,27 @@ The Python Packaging Authority (PyPA) is a working group that maintains many of 
 PyPA GitHub仓库  
 [https://github.com/pypa](https://github.com/pypa)  
 
-#### pip
+### pip
 pip文档  
 [https://pip.pypa.io/en/stable/](https://pip.pypa.io/en/stable/)  
 
 pip GitHub仓库  
 [https://github.com/pypa/pip](https://github.com/pypa/pip)  
 
-#### Wheel
+### Wheel
 wheel文档  
 [https://wheel.readthedocs.io/en/stable/](https://wheel.readthedocs.io/en/stable/)  
 
 wheel GitHub仓库  
 [https://github.com/pypa/wheel](https://github.com/pypa/wheel)  
 
-## Software
-### digiKam
+# Software
+## digiKam
 [https://www.digikam.org/](https://www.digikam.org/)  
 digiKam 是开源发布的高级照片管理程序。  
 License: GNU GPL
 
-### FileZilla
+## FileZilla
 [https://filezilla-project.org/](https://filezilla-project.org/)  
 免费的FTP解决方案。Both a client and a server are available. FileZilla is open source software distributed free of charge under the terms of the GNU General Public License.  
 License: GUN GPLv2  
@@ -143,18 +148,18 @@ FileZilla支持的平台：
 FileZilla client: 所有平台  
 FileZilla Server: 仅Windows  
 
-### Skim  
+## Skim  
 [https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
 macOS平台下很棒的一个PDF阅读软件
 
-### Sublime Text  
+## Sublime Text  
 [https://www.sublimetext.com/](https://www.sublimetext.com/)  
 
-#### Package Control
+### Package Control
 [https://packagecontrol.io/](https://packagecontrol.io/)  
 Sublime Text的包管理器
 
-### 老毛桃
+## 老毛桃
 [http://www.laomaotao.org/](http://www.laomaotao.org/)  
 平台：Windows  
 很给力的一个工具，可以用来创建Linux（测试过Linux Mint 18.3）版的U盘启动盘。
@@ -213,5 +218,3 @@ What Is My Browser
 [http://dict.baidu.com/](http://dict.baidu.com/)  
 
 # Other
-robots.txt  
-[http://www.robotstxt.org/](http://www.robotstxt.org/)  
