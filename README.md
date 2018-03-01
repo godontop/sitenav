@@ -25,6 +25,7 @@
 	* [git](#git)
     * [RFC索引](#rfc索引) 
 		* [Unicode](#unicode)
+* [Other](#other)
 
 ## Docker
 Docker Hub  
@@ -210,3 +211,7 @@ What Is My Browser
 
 百度词典  
 [http://dict.baidu.com/](http://dict.baidu.com/)  
+
+# Other
+robots.txt  
+[http://www.robotstxt.org/](http://www.robotstxt.org/)  
