@@ -44,6 +44,10 @@ Dockerfile参考
 robots.txt  
 [http://www.robotstxt.org/](http://www.robotstxt.org/)  
 
+Sitemap  
+[https://www.sitemaps.org/](https://www.sitemaps.org/)  
+Sitemap 可方便管理员通知搜索引擎他们网站上有哪些可供抓取的网页。最简单的 Sitemap 形式，就是 XML 文件，在其中列出网站中的网址以及关于每个网址的其他元数据（上次更新的时间、更改的频率以及相对于网站上其他网址的重要程度为何等），以便搜索引擎可以更加智能地抓取网站。
+
 # Linux
 ## Alpine Linux
 [https://alpinelinux.org/](https://alpinelinux.org/)
@@ -148,6 +152,14 @@ License: GUN GPLv2
 **FileZilla支持的平台：**  
 FileZilla client: 所有平台  
 FileZilla Server: 仅Windows  
+
+## MinGW
+[http://mingw.org/](http://mingw.org/)  
+MinGW, "Minimalist GNU for Windows" 的缩写, is a minimalist development environment for native Microsoft Windows applications.
+
+## Mingw-w64
+[https://mingw-w64.org/doku.php](https://mingw-w64.org/doku.php)  
+Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems. It has forked it in 2007 in order to provide support for 64 bits and new APIs.
 
 ## Skim  
 [https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
