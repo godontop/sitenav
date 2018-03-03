@@ -20,6 +20,8 @@
 * [Software](#software) 
     * [digiKam](#digikam)
     * [FileZilla](#filezilla)
+    * [MinGW](#mingw)
+    * [Mingw-w64](#mingw-w64)
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
