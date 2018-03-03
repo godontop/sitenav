@@ -15,6 +15,7 @@
     * [lxml](#lxml)
     * [PyPA](#pypa)
         * [pip](#pip)
+        * [virtualenv](#virtualenv)
         * [Wheel](#wheel)
 * [Software](#software) 
     * [digiKam](#digikam)
@@ -130,6 +131,13 @@ pip文档
 
 pip GitHub仓库  
 [https://github.com/pypa/pip](https://github.com/pypa/pip)  
+
+### virtualenv
+virtualenv文档  
+[https://virtualenv.pypa.io/en/stable/](https://virtualenv.pypa.io/en/stable/)
+
+virtualenv GitHub仓库  
+[https://github.com/pypa/virtualenv](https://github.com/pypa/virtualenv)  
 
 ### Wheel
 wheel文档  
