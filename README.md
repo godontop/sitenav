@@ -4,6 +4,7 @@
 * [Docker](#docker)
 * [Google](#google)
 * [Info](#info)
+    * [RFC](#rfc)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [GCC](#gcc)
@@ -27,7 +28,6 @@
         * [Package Control](#package-control) 
     * [老毛桃](#老毛桃)
 	* [git](#git)
-    * [RFC索引](#rfc索引) 
 		* [Unicode](#unicode)
 * [Other](#other)
 
@@ -44,6 +44,13 @@ Dockerfile参考
 [Google Play](https://play.google.com/store)  
 
 # Info
+## RFC
+RFC索引  
+[https://www.ietf.org/rfc/](https://www.ietf.org/rfc/)
+
+HTTP/1.1 Semantics and Content  
+[https://tools.ietf.org/html/rfc7231](https://tools.ietf.org/html/rfc7231)
+
 robots.txt  
 [http://www.robotstxt.org/](http://www.robotstxt.org/)  
 
@@ -192,9 +199,6 @@ Sublime Text的包管理器
 
 Pro Git 中文版（第二版）  
 [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
-
-#### RFC索引
-[https://www.ietf.org/rfc/](https://www.ietf.org/rfc/)
 
 #### Unicode  
 Unicode官网  
