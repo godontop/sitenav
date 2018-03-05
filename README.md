@@ -18,6 +18,8 @@
         * [pip](#pip)
         * [virtualenv](#virtualenv)
         * [Wheel](#wheel)
+* [Query](#query)
+    * [百度](#百度)
 * [Software](#software) 
     * [digiKam](#digikam)
     * [FileZilla](#filezilla)
@@ -155,6 +157,20 @@ wheel文档
 wheel GitHub仓库  
 [https://github.com/pypa/wheel](https://github.com/pypa/wheel)  
 
+# Query
+## 百度
+百度百科  
+[https://baike.baidu.com/](https://baike.baidu.com/)
+
+百度词典  
+[http://dict.baidu.com/](http://dict.baidu.com/)  
+
+百度翻译  
+[http://fanyi.baidu.com/](http://fanyi.baidu.com/)  
+
+百度企业信用  
+[https://xin.baidu.com/](https://xin.baidu.com/)
+
 # Software
 ## digiKam
 [https://www.digikam.org/](https://www.digikam.org/)  
@@ -234,14 +250,5 @@ What Is My IP Address
 
 What Is My Browser  
 [https://www.whatismybrowser.com](#https://www.whatismybrowser.com)
-
-百度百科  
-[https://baike.baidu.com/](https://baike.baidu.com/)
-
-百度翻译  
-[http://fanyi.baidu.com/](http://fanyi.baidu.com/)  
-
-百度词典  
-[http://dict.baidu.com/](http://dict.baidu.com/)  
 
 # Other
