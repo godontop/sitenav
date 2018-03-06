@@ -97,6 +97,9 @@ FHS
 Python文档  
 [https://docs.python.org/3/](https://docs.python.org/3/)  
 
+术语表  
+[https://docs.python.org/3/glossary.html](https://docs.python.org/3/glossary.html)
+
 Python模块索引  
 [https://docs.python.org/3/py-modindex.html](https://docs.python.org/3/py-modindex.html)  
 
@@ -252,3 +255,5 @@ What Is My Browser
 [https://www.whatismybrowser.com](#https://www.whatismybrowser.com)
 
 # Other
+163邮箱  
+[https://mail.163.com/](https://mail.163.com/)
