@@ -18,6 +18,7 @@
         * [pip](#pip)
         * [virtualenv](#virtualenv)
         * [Wheel](#wheel)
+    * [Scrapy](#scrapy)
 * [Query](#query)
     * [百度](#百度)
 * [Software](#software) 
@@ -159,6 +160,12 @@ wheel文档
 
 wheel GitHub仓库  
 [https://github.com/pypa/wheel](https://github.com/pypa/wheel)  
+
+## Scrapy
+[https://scrapy.org/](https://scrapy.org/)  
+
+Scrapy文档  
+[https://docs.scrapy.org/en/latest/](https://docs.scrapy.org/en/latest/)
 
 # Query
 ## 百度
