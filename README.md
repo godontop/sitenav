@@ -5,10 +5,13 @@
 * [Google](#google)
 * [Info](#info)
     * [RFC](#rfc)
+    * [w3schools](#w3schools)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [GCC](#gcc)
+    * [GNU](#gun)
     * [Linux Foundation](#linux-foundation)
+    * [The Linux Documentation Project](#the-linux-documentation-project)
 * [Python](#python)
 	* [Beautiful Soup](#beautiful-soup)
 	* [IPython](#ipython)
@@ -55,6 +58,14 @@ RFC索引
 HTTP/1.1 Semantics and Content  
 [https://tools.ietf.org/html/rfc7231](https://tools.ietf.org/html/rfc7231)
 
+## w3schools
+w3schools.com  
+[https://www.w3schools.com/](https://www.w3schools.com/)  
+世界上最大的Web开发站点
+
+HTML 实体字符  
+[https://www.w3schools.com/html/html_entities.asp](https://www.w3schools.com/html/html_entities.asp)
+
 robots.txt  
 [http://www.robotstxt.org/](http://www.robotstxt.org/)  
 
@@ -82,6 +93,13 @@ GCC在线文档
 C预处理器文档  
 [https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/](https://gcc.gnu.org/onlinedocs/gcc-6.4.0/cpp/)
 
+## GNU
+GNU Bash  
+[https://www.gnu.org/software/bash/](https://www.gnu.org/software/bash/)
+
+GNU Bash 手册  
+[https://www.gnu.org/software/bash/manual/](https://www.gnu.org/software/bash/manual/)
+
 ## Linux Foundation
 LSB(Linux Standard Base)规范归档  
 [http://refspecs.linuxfoundation.org/lsb.shtml](http://refspecs.linuxfoundation.org/lsb.shtml)
@@ -91,6 +109,15 @@ FHS(Filesystem Hierarchy Standard)规范归档
 
 FHS  
 [http://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html](http://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+
+## The Linux Documentation Project
+[https://www.tldp.org/](https://www.tldp.org/)
+
+Advanced Bash-Scripting Guide  
+[https://www.tldp.org/guides.html](https://www.tldp.org/guides.html)
+
+Bash Guide for Beginners  
+[https://www.tldp.org/guides.html](https://www.tldp.org/guides.html)
 
 树莓派  
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
@@ -181,6 +208,10 @@ Scrapy文档
 
 百度企业信用  
 [https://xin.baidu.com/](https://xin.baidu.com/)
+
+Alexa  
+[https://www.alexa.com/](https://www.alexa.com/)  
+查询网站的Alexa排名
 
 # Software
 ## digiKam
