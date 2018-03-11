@@ -9,7 +9,7 @@
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [GCC](#gcc)
-    * [GNU](#gun)
+    * [GNU](#gnu)
     * [Linux Foundation](#linux-foundation)
     * [The Linux Documentation Project](#the-linux-documentation-project)
 * [Python](#python)
