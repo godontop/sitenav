@@ -2,6 +2,7 @@
 我的网址导航
 
 * [Docker](#docker)
+* [Download](#download)
 * [Google](#google)
 * [Info](#info)
     * [RFC](#rfc)
@@ -38,12 +39,17 @@
 * [Tools](#tools)
 * [Other](#other)
 
-## Docker
+# Docker
 Docker Hub  
 [https://hub.docker.com/](https://hub.docker.com/)
 
 Dockerfile参考  
 [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
+
+# Download
+uptodown  
+[http://en.uptodown.com/](http://en.uptodown.com/)  
+很牛在一个软件下载站，Alexa全球排名386（2018.03.17）
 
 # Google
 [Google Calendar](https://www.google.com/calendar/)  
@@ -118,6 +124,12 @@ Advanced Bash-Scripting Guide
 
 Bash Guide for Beginners  
 [https://www.tldp.org/guides.html](https://www.tldp.org/guides.html)
+
+Zabbix  
+[https://www.zabbix.com/](https://www.zabbix.com/)
+
+Zabbix文档  
+[https://www.zabbix.com/manuals](https://www.zabbix.com/manuals)
 
 树莓派  
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
