@@ -9,6 +9,7 @@
     * [w3schools](#w3schools)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
+    * [Debian](#debian)
     * [GCC](#gcc)
     * [GNU](#gnu)
     * [Linux Foundation](#linux-foundation)
@@ -89,6 +90,13 @@ Alpine Linux包管理器
 Alpine Linux包内容  
 [https://pkgs.alpinelinux.org/contents](https://pkgs.alpinelinux.org/contents)  
 用于查询指定文件由哪个包提供（apk info --who-owns只能查询已安装到系统的文件属于哪个包）
+
+## Debian
+Debian 9 "Stretch" release date: 2017.06.17  
+Debian 9.4 已于2018年03月10日发布。Debian 9.0 最初发布于2017年06月17日。
+
+stretch 发行版的所有源码包  
+[https://packages.debian.org/source/stretch/allpackages](https://packages.debian.org/source/stretch/allpackages)
 
 ## GCC
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
