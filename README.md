@@ -142,6 +142,9 @@ Zabbix文档
 树莓派  
 [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 
+Linux Packages Search  
+[https://pkgs.org/](https://pkgs.org/)
+
 # Python
 Python文档  
 [https://docs.python.org/3/](https://docs.python.org/3/)  
@@ -158,6 +161,9 @@ PEPs索引
 
 Python分支的状态  
 [https://devguide.python.org/](https://devguide.python.org/)  
+
+Python Source Releases  
+[https://www.python.org/downloads/source/](https://www.python.org/downloads/source/)
 
 ## Beautiful Soup
 Beautiful Soup官网  
