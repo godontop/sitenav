@@ -149,6 +149,9 @@ Linux Packages Search
 Python文档  
 [https://docs.python.org/3/](https://docs.python.org/3/)  
 
+Python安装和使用  
+[https://docs.python.org/3/using/index.html](https://docs.python.org/3/using/index.html)
+
 术语表  
 [https://docs.python.org/3/glossary.html](https://docs.python.org/3/glossary.html)
 
