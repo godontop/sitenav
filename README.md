@@ -114,6 +114,12 @@ GNU Bash
 GNU Bash 手册  
 [https://www.gnu.org/software/bash/manual/](https://www.gnu.org/software/bash/manual/)
 
+GNU Make主页  
+[https://www.gnu.org/software/make/](https://www.gnu.org/software/make/)
+
+GNU Make手册  
+[https://www.gnu.org/software/make/manual/](https://www.gnu.org/software/make/manual/)
+
 ## Linux Foundation
 LSB(Linux Standard Base)规范归档  
 [http://refspecs.linuxfoundation.org/lsb.shtml](http://refspecs.linuxfoundation.org/lsb.shtml)
@@ -144,6 +150,9 @@ Zabbix文档
 
 Linux Packages Search  
 [https://pkgs.org/](https://pkgs.org/)
+
+Tcl/Tk官网  
+[http://www.tcl.tk/](http://www.tcl.tk/)
 
 # Python
 Python文档  
