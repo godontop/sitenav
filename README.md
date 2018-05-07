@@ -25,6 +25,7 @@
         * [pip](#pip)
         * [virtualenv](#virtualenv)
         * [Wheel](#wheel)
+    * [Requests](#requests)
     * [Scrapy](#scrapy)
 * [Query](#query)
     * [百度](#百度)
@@ -235,6 +236,13 @@ wheel文档
 
 wheel GitHub仓库  
 [https://github.com/pypa/wheel](https://github.com/pypa/wheel)  
+
+## Requests
+Requests文档  
+[http://docs.python-requests.org/en/master/](#http://docs.python-requests.org/en/master/)
+
+Requests文档中文版  
+[http://cn.python-requests.org/zh_CN/latest/](#http://cn.python-requests.org/zh_CN/latest/)
 
 ## Scrapy
 [https://scrapy.org/](https://scrapy.org/)  
