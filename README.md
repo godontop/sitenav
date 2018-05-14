@@ -291,6 +291,10 @@ MinGW, "Minimalist GNU for Windows" 的缩写, is a minimalist development envir
 [https://mingw-w64.org/doku.php](https://mingw-w64.org/doku.php)  
 Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems. It has forked it in 2007 in order to provide support for 64 bits and new APIs.
 
+## Notepad++
+[https://notepad-plus-plus.org](https://notepad-plus-plus.org)  
+Windows平台下很棒的一个源代码编辑器。
+
 ## Skim  
 [https://skim-app.sourceforge.io/](https://skim-app.sourceforge.io/)  
 macOS平台下很棒的一个PDF阅读软件
