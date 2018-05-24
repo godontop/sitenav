@@ -136,9 +136,19 @@ FHS
 ## Oracle Database Documentation
 [Oracle数据库文档](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)
 
+Instant Client
+[Instant Client for Microsoft Windows 32-bit](http://www.oracle.com/technetwork/topics/winsoft-085727.html)
+
+Local Naming Parameters (tnsnames.ora)  
+Database Administration——Database Net Services Reference——Local Naming Parameters  
+[https://docs.oracle.com/cd/B28359_01/network.111/b28317/tnsnames.htm#NETRF007](https://docs.oracle.com/cd/B28359_01/network.111/b28317/tnsnames.htm#NETRF007)
+
 ## RHEL
 RHEL文档  
 [https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
+
+### Supervisor
+[http://supervisord.org](http://supervisord.org)
 
 ## The Linux Documentation Project
 [https://www.tldp.org/](https://www.tldp.org/)
