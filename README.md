@@ -9,6 +9,8 @@
     * [w3schools](#w3schools)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
+    * [CentOS](#centos)
+        * [Supervisor](#supervisor)
     * [Debian](#debian)
     * [GCC](#gcc)
     * [GNU](#gnu)
@@ -94,6 +96,10 @@ Alpine Linux包内容
 [https://pkgs.alpinelinux.org/contents](https://pkgs.alpinelinux.org/contents)  
 用于查询指定文件由哪个包提供（apk info --who-owns只能查询已安装到系统的文件属于哪个包）
 
+## CentOS
+### Supervisor
+[http://supervisord.org](http://supervisord.org)
+
 ## Debian
 Debian 9 "Stretch" release date: 2017.06.17  
 Debian 9.4 已于2018年03月10日发布。Debian 9.0 最初发布于2017年06月17日。
@@ -146,9 +152,6 @@ Database Administration——Database Net Services Reference——Local Naming P
 ## RHEL
 RHEL文档  
 [https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
-
-### Supervisor
-[http://supervisord.org](http://supervisord.org)
 
 ## The Linux Documentation Project
 [https://www.tldp.org/](https://www.tldp.org/)
