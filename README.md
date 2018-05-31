@@ -97,6 +97,10 @@ Alpine Linux包内容
 用于查询指定文件由哪个包提供（apk info --who-owns只能查询已安装到系统的文件属于哪个包）
 
 ## CentOS
+### Ansible
+Ansible文档  
+[http://docs.ansible.com/ansible/latest/index.html](http://docs.ansible.com/ansible/latest/index.html)
+
 ### Supervisor
 [http://supervisord.org](http://supervisord.org)
 
@@ -148,6 +152,14 @@ Instant Client
 Local Naming Parameters (tnsnames.ora)  
 Database Administration——Database Net Services Reference——Local Naming Parameters  
 [https://docs.oracle.com/cd/B28359_01/network.111/b28317/tnsnames.htm#NETRF007](https://docs.oracle.com/cd/B28359_01/network.111/b28317/tnsnames.htm#NETRF007)
+
+Database 2 Day DBA
+Database Administration——Database 2 Day DBA  
+[https://docs.oracle.com/database/121/ADMQS/toc.htm](https://docs.oracle.com/database/121/ADMQS/toc.htm)
+
+Formatting SQL\*Plus Reports
+Database Administration——SQL\*Plus® User's Guide and Reference  
+[https://docs.oracle.com/cd/E11882_01/server.112/e16604/ch_six.htm#SQPUG016](https://docs.oracle.com/cd/E11882_01/server.112/e16604/ch_six.htm#SQPUG016)
 
 ## RHEL
 RHEL文档  
