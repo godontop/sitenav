@@ -102,9 +102,6 @@ Alpine Linux包内容
 Ansible文档  
 [http://docs.ansible.com/ansible/latest/index.html](http://docs.ansible.com/ansible/latest/index.html)
 
-Ansible中文权威指南  
-[http://www.ansible.com.cn/index.html](http://www.ansible.com.cn/index.html)
-
 ### Supervisor
 [http://supervisord.org](http://supervisord.org)
 
