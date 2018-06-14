@@ -295,6 +295,11 @@ Alexa
 查询网站的Alexa排名
 
 # Software
+## DBeaver
+[https://dbeaver.io](https://dbeaver.io)  
+**通用数据库工具**  
+开发者，SQL 程序员，数据库管理员和分析员的免费跨平台数据库工具。支持所有流行的数据库：MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, 等等。
+
 ## digiKam
 [https://www.digikam.org/](https://www.digikam.org/)  
 digiKam 是开源发布的高级照片管理程序。  
@@ -316,6 +321,11 @@ MinGW, "Minimalist GNU for Windows" 的缩写, is a minimalist development envir
 ## Mingw-w64
 [https://mingw-w64.org/doku.php](https://mingw-w64.org/doku.php)  
 Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems. It has forked it in 2007 in order to provide support for 64 bits and new APIs.
+
+## MySQL Workbench
+[https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)  
+
+[Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
 
 ## Notepad++
 [https://notepad-plus-plus.org](https://notepad-plus-plus.org)  
