@@ -7,6 +7,9 @@
 * [Info](#info)
     * [RFC](#rfc)
     * [w3schools](#w3schools)
+    * [菜鸟教程](#菜鸟教程)
+* [Java](#java)
+    * [Java Service Wrapper](#java-service-wrapper)
 * [Linux](#linux)
 	* [Alpine Linux](#alpine-linux)
     * [CentOS](#centos)
@@ -87,6 +90,18 @@ robots.txt
 Sitemap  
 [https://www.sitemaps.org/](https://www.sitemaps.org/)  
 Sitemap 可方便管理员通知搜索引擎他们网站上有哪些可供抓取的网页。最简单的 Sitemap 形式，就是 XML 文件，在其中列出网站中的网址以及关于每个网址的其他元数据（上次更新的时间、更改的频率以及相对于网站上其他网址的重要程度为何等），以便搜索引擎可以更加智能地抓取网站。
+
+## 菜鸟教程
+[http://www.runoob.com](http://www.runoob.com)  
+教程简单明了，是个不错的学习网站。
+
+# Java
+## Java Service Wrapper  
+[https://wrapper.tanukisoftware.com/](https://wrapper.tanukisoftware.com/)
+
+[Windows x86 32位社区版](https://download.tanukisoftware.com/wrapper/3.5.35/wrapper-windows-x86-32-3.5.35.zip)
+
+社区版没有提供64位的Windows版本的 Java Service Wrapper。
 
 # Linux
 ## Alpine Linux
@@ -234,7 +249,7 @@ Jupyter notebook用户文档
 [http://jupyter-notebook.readthedocs.io/en/stable/](http://jupyter-notebook.readthedocs.io/en/stable/)
 
 ## lxml
-[http://lxml.de/](http://lxml.de/)  
+[https://lxml.de](https://lxml.de)  
 
 ## PyPA
 PyPA文档  
@@ -285,6 +300,9 @@ Scrapy文档
 
 百度词典  
 [http://dict.baidu.com/](http://dict.baidu.com/)  
+
+百度地图拾取坐标系统  
+[http://api.map.baidu.com/lbsapi/getpoint/index.html](http://api.map.baidu.com/lbsapi/getpoint/index.html)
 
 百度翻译  
 [http://fanyi.baidu.com/](http://fanyi.baidu.com/)  
