@@ -46,6 +46,7 @@
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
+    * [Visual Studio Code](#visual-studio-code)
     * [老毛桃](#老毛桃)
 	* [git](#git)
 		* [Unicode](#unicode)
@@ -367,6 +368,11 @@ macOS平台下很棒的一个PDF阅读软件
 ### Package Control
 [https://packagecontrol.io/](https://packagecontrol.io/)  
 Sublime Text的包管理器
+
+## Visual Studio Code
+Visual Studio Code (VS Code)  
+[https://code.visualstudio.com](https://code.visualstudio.com)  
+VS Code是由微软开发并开源的一个源代码编辑器。
 
 ## 老毛桃
 [http://www.laomaotao.org/](http://www.laomaotao.org/)  
