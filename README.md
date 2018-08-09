@@ -6,6 +6,7 @@
 * [Google](#google)
 * [Info](#info)
     * [RFC](#rfc)
+    * [W3C](#w3c)
     * [w3schools](#w3schools)
     * [w3school 在线教程](#w3school-在线教程)
     * [菜鸟教程](#菜鸟教程)
@@ -78,6 +79,10 @@ RFC索引
 
 HTTP/1.1 Semantics and Content  
 [https://tools.ietf.org/html/rfc7231](https://tools.ietf.org/html/rfc7231)
+
+## W3C
+Selectors Level 3  
+[https://www.w3.org/TR/selectors-3](https://www.w3.org/TR/selectors-3)
 
 ## w3schools
 w3schools.com  
