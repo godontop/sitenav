@@ -239,6 +239,12 @@ PEPs索引
 Python分支的状态  
 [https://devguide.python.org/](https://devguide.python.org/)  
 
+Python Index  
+[https://docs.python.org/3/genindex.html](https://docs.python.org/3/genindex.html)
+
+Python Full index on one page  
+[https://docs.python.org/3/genindex-all.html](https://docs.python.org/3/genindex-all.html)
+
 Python Source Releases  
 [https://www.python.org/downloads/source/](https://www.python.org/downloads/source/)
 
@@ -434,6 +440,15 @@ httpstat.us
 [https://mail.163.com/](https://mail.163.com/)
 
 # 政府网站
+深圳政府在线  
+[http://www.sz.gov.cn/cn/](http://www.sz.gov.cn/cn/)
+
+深圳政府在线--住房领域  
+[http://www.sz.gov.cn/zflyfwzt/](http://www.sz.gov.cn/zflyfwzt/)
+
+公积金开户和缴存  
+[http://www.sz.gov.cn/zflyfwzt/gjjfw/jc/](http://www.sz.gov.cn/zflyfwzt/gjjfw/jc/)
+
 深圳市住房公积金管理中心  
 [http://www.szzfgjj.com](http://www.szzfgjj.com)
 
