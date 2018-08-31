@@ -226,11 +226,11 @@ Python文档
 Python安装和使用  
 [https://docs.python.org/3/using/index.html](https://docs.python.org/3/using/index.html)
 
+Python最新动态
+[https://docs.python.org/3/whatsnew/index.html](https://docs.python.org/3/whatsnew/index.html)
+
 术语表  
 [https://docs.python.org/3/glossary.html](https://docs.python.org/3/glossary.html)
-
-Python模块索引  
-[https://docs.python.org/3/py-modindex.html](https://docs.python.org/3/py-modindex.html)  
 
 PEPs(Python Enhancement Proposals)  
 [https://www.python.org/dev/peps/](https://www.python.org/dev/peps/)  
@@ -238,6 +238,9 @@ PEPs索引
 
 Python分支的状态  
 [https://devguide.python.org/](https://devguide.python.org/)  
+
+Python模块索引  
+[https://docs.python.org/3/py-modindex.html](https://docs.python.org/3/py-modindex.html)  
 
 Python Index  
 [https://docs.python.org/3/genindex.html](https://docs.python.org/3/genindex.html)
