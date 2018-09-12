@@ -392,10 +392,10 @@ Sublime Text的包管理器
 
 ## vim
 vim官网  
-[https://www.vim.org](#https://www.vim.org)
+[https://www.vim.org](https://www.vim.org)
 
 vim文档  
-[http://vimdoc.sourceforge.net](#http://vimdoc.sourceforge.net)
+[http://vimdoc.sourceforge.net](http://vimdoc.sourceforge.net)
 
 ## Visual Studio Code
 Visual Studio Code (VS Code)  
