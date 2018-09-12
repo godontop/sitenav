@@ -48,6 +48,7 @@
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
+    * [vim](#vim)
     * [Visual Studio Code](#visual-studio-code)
     * [老毛桃](#老毛桃)
 	* [git](#git)
