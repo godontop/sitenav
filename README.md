@@ -29,6 +29,7 @@
 	* [IPython](#ipython)
 	* [Jupyter](#jupyter)
     * [lxml](#lxml)
+    * [PyMongo](#pymongo)
     * [PyPA](#pypa)
         * [pip](#pip)
         * [virtualenv](#virtualenv)
@@ -387,6 +388,13 @@ macOS平台下很棒的一个PDF阅读软件
 ### Package Control
 [https://packagecontrol.io/](https://packagecontrol.io/)  
 Sublime Text的包管理器
+
+## vim
+vim官网  
+[https://www.vim.org](#https://www.vim.org)
+
+vim文档  
+[http://vimdoc.sourceforge.net](#http://vimdoc.sourceforge.net)
 
 ## Visual Studio Code
 Visual Studio Code (VS Code)  
