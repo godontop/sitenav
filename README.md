@@ -8,7 +8,6 @@
     * [RFC](#rfc)
     * [W3C](#w3c)
     * [w3schools](#w3schools)
-    * [w3school 在线教程](#w3school-在线教程)
     * [菜鸟教程](#菜鸟教程)
 * [Java](#java)
     * [Java Service Wrapper](#java-service-wrapper)
@@ -37,6 +36,7 @@
     * [Requests](#requests)
     * [Scrapy](#scrapy)
 * [Query](#query)
+    * [IEEE](#ieee)
     * [百度](#百度)
 * [Software](#software) 
     * [DBeaver](#dbeaver)
@@ -44,7 +44,6 @@
     * [FileZilla](#filezilla)
     * [MinGW](#mingw)
     * [Mingw-w64](#mingw-w64)
-    * [MySQL Workbench](#mysql-workbench)
     * [Skim](#skim)
     * [Sublime Text](#sublime-text)
         * [Package Control](#package-control) 
@@ -93,10 +92,6 @@ w3schools.com
 
 HTML 实体字符  
 [https://www.w3schools.com/html/html_entities.asp](https://www.w3schools.com/html/html_entities.asp)
-
-## w3school 在线教程
-[http://www.w3school.com.cn](http://www.w3school.com.cn)  
-中文版的w3school
 
 robots.txt  
 [http://www.robotstxt.org/](http://www.robotstxt.org/)  
@@ -322,6 +317,12 @@ Scrapy文档
 [https://docs.scrapy.org/en/latest/](https://docs.scrapy.org/en/latest/)
 
 # Query
+## IEEE
+[https://www.ieee.org](https://www.ieee.org)
+
+IEEE标准OUI  
+[http://standards-oui.ieee.org/oui.txt](http://standards-oui.ieee.org/oui.txt)
+
 ## 百度
 百度百科  
 [https://baike.baidu.com/](https://baike.baidu.com/)
@@ -369,11 +370,6 @@ MinGW, "Minimalist GNU for Windows" 的缩写, is a minimalist development envir
 ## Mingw-w64
 [https://mingw-w64.org/doku.php](https://mingw-w64.org/doku.php)  
 Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems. It has forked it in 2007 in order to provide support for 64 bits and new APIs.
-
-## MySQL Workbench
-[https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)  
-
-[Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
 
 ## Notepad++
 [https://notepad-plus-plus.org](https://notepad-plus-plus.org)  
