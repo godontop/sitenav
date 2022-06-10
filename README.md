@@ -567,7 +567,7 @@ httpstat.us
 
 StackEdit  
 [https://stackedit.io/app](https://stackedit.io/app)  
-支持GFM的Markdown在线编辑器  
+支持GFM的Markdown在线编辑器，非常棒！  
 
 # Other
 163邮箱  
